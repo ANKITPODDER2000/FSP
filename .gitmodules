@@ -1,0 +1,6 @@
+[submodule "projecta"]
+	path = projecta
+	url = https://github.com/ANKITPODDER2000/FSP
+[submodule "project_fsp"]
+	path = project_fsp
+	url = https://github.com/ANKITPODDER2000/FSP_ML_Project
